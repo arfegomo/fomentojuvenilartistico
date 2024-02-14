@@ -194,7 +194,7 @@ jQuery(document).ready(function($) {
 	    center: false,
 	    items: 1,
 	    loop: true,
-			stagePadding: 0,
+		stagePadding: 0,
 	    margin: 0,
 	    smartSpeed: 1500,
 	    autoplay: true,
